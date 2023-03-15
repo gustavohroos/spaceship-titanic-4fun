@@ -1,0 +1,6 @@
+/.DS_Store
+/.ipynb_checkpoints
+/.vscode
+/model.pickle
+/submission.csv
+/submission_gb.csv
